@@ -1,3 +1,6 @@
 [submodule "AndreasArgiris"]
 	path = AndreasArgiris
 	url = https://github.com/AndreasArgiris/AndreasArgiris.git
+[submodule "assignment"]
+	path = assignment
+	url = https://github.com/AndreasArgiris/MonospaceAssignment.git
